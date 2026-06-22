@@ -73,3 +73,20 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Expo
+.expo
+dist/
+web-build/
+# Node
+node_modules/
+
+# Python / Backend
+backend/venv/
+backend/__pycache__/
+backend/chroma_db/
+backend/db/
+
+# Secrets (DO NOT UPLOAD)
+.env
+backend/.env

@@ -1,4 +1,7 @@
 {
   "name": "codexp",
-  "displayName": "codexp"
+  "displayName": "codexp",
+  "android": {
+    "package": "com.anonymous.codexp"
+  }
 }
